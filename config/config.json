@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Andromeda Light Nextjs",
+    "title": "Saikot House",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.svg",
     "logo_width": "240",
     "logo_height": "34",
-    "logo_text": "Andromeda"
+    "logo_text": "Saikothouse"
   },
 
   "settings": {
@@ -30,12 +30,12 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Download Now",
-    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+    "label": "Talk With Us",
+    "link": "/contact"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Saikothouse",
     "meta_image": "/images/og-image.png",
     "meta_description": "Andromeda-light Nextjs Blog Template"
   },
@@ -45,14 +45,14 @@
     "title": "Get Andromeda Now",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/products/andromeda-light-nextjs"
+      "label": "Contact Us",
+      "link": "/contact"
     }
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "saikothouse",
     "settings": {}
   }
 }
