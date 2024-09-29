@@ -18,8 +18,12 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Elements",
-          "url": "/elements"
+          "name": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Terms Of Service",
+          "url": "/terms"
         },
         {
           "name": "Terms & Conditions",
@@ -42,8 +46,8 @@
       "url": "/blog"
     },
     {
-      "name": "Terms & Conditions",
-      "url": "/terms-policy"
+      "name": "Projects",
+      "url": "/projects"
     }
   ]
 }
